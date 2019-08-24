@@ -1,0 +1,6 @@
+This is a VI code instruction
+vi ‘file name’ *enter vi editor command mode*
+*type i or a to get into insert mode. i to insert before text; a to insert after text*
+*h j k l is the arrow key**
+*shift colon to enter command. wq to save and quit; q! to just quit*
+
